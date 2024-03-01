@@ -1,0 +1,8 @@
+Animation Idle assets/textures/_Idle.png 9 8 4 -1 0 1
+Animation Run assets/textures/_Run.png 8 4 4 -1 0 1
+Animation Jump assets/textures/_Idle.png 9 8 4 -1 0 1
+Animation Fall assets/textures/_Idle.png 9 8 4 -1 0 1
+Animation Lightning_Ball assets/textures/_Lightning_Ball.png 8 8 4 -2 0 1
+Animation Explosion assets/textures/_Explosion.png 14 3 4 0 0 0 1
+
+TYPE NAME PATH FRAME_COUNT FRAME_DURATION SCALE X_OFFSET Y_OFFSET REPEAT? DESTROY_ON_END
